@@ -1,0 +1,5 @@
+There are several solutions this software hopes to address:
+
+1. Allow dynamic access to geohash prefixes colliding with a bounding box.
+
+2. Build a small database with a GIST index for finding hashes using several SQL solutions.
